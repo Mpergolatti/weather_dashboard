@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Mpergolatti/weather_dashboard/issues"
   },
-  "homepage": "https://github.com/Mpergolatti/weather_dashboard#readme"
+  "homepage": "https://github.com/Mpergolatti/weather_dashboard#readme",
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
